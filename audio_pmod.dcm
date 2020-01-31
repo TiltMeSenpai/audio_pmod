@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM5100APW
+D 2VRMS DirectPath&#153;, 100dB Audio Stereo DAC with 32-bit, 384kHz PCM Interface
+F http://www.ti.com/lit/ds/symlink/pcm5100a.pdf
+$ENDCMP
+#
+#End Doc Library
